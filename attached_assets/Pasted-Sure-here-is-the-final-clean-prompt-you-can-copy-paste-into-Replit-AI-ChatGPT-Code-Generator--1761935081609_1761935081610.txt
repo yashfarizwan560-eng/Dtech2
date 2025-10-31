@@ -1,0 +1,144 @@
+Sure — here is the **final clean prompt** you can copy-paste into Replit AI, ChatGPT Code Generator, or any builder.
+
+---
+
+# ✅ **FINAL SINGLE-PAGE WEBSITE PROMPT (FREE REPLIT READY)**
+
+**Build a professional, fully responsive SINGLE-PAGE website for a company named “D-TECH”. The site must work completely on Replit’s FREE plan (no backend, no paid features). Use only HTML, CSS, and JavaScript.**
+
+---
+
+## ✅ **Brand & Theme**
+
+* Futuristic + modern + clean UI
+* Light theme with **deep navy → purple gradient** accents (matches D-TECH logo colors)
+* Glassmorphism + neon glow edges
+* Soft animations and smooth scrolling
+* Responsive on mobile, tablet, desktop
+
+---
+
+## ✅ **Website Sections (Single Page Only)**
+
+The entire site must be built inside **one HTML file** with scrolling anchors:
+
+1. **Hero Section**
+
+   * Animated company logo
+   * Tagline: *“Innovating with AI — Building Digital Future”*
+   * CTA buttons: Get Started, Portfolio, Contact
+
+2. **Services Section**
+
+   * Cards with icons
+   * Services: Web Dev, Game Dev, SEO, AI Automation
+
+3. **Tech Stack Section**
+
+   * Icons/logos for Unity, Unreal, HTML/CSS/JS, AI Tools
+
+4. **Portfolio Section**
+
+   * Category filter buttons: **Web | Games | SEO | AI**
+   * Grid layout
+   * Clicking a project opens a **modal popup** with project details (not a new page)
+   * Include 4 placeholder projects
+
+5. **About Us Section**
+
+   * Company mission & vision
+   * Small team placeholders
+
+6. **Testimonials Section**
+
+   * 3 rotating/sliding testimonial cards
+
+7. **Contact Section**
+
+   * Working contact form using **Formspree (free)**
+
+     * Fields: name, email, phone, message
+   * Show success/failure messages
+   * WhatsApp button (`wa.me`)
+   * Address + phone
+   * Social links (GitHub, LinkedIn, Facebook, WhatsApp)
+
+8. **Footer**
+
+   * Copyright
+   * Social icons
+
+---
+
+## ✅ **Required Features**
+
+* Sticky navbar with glowing hover effect
+* Smooth scroll for nav links
+* Scroll reveal animations (vanilla JS)
+* Animated gradient background lights
+* Portfolio modal popup system
+* Mobile menu toggle
+* No backend — works entirely as front-end
+
+---
+
+## ✅ **Technical Requirements**
+
+* Use this folder structure:
+
+```
+index.html
+/css/style.css
+/js/main.js
+/assets/logo.png
+```
+
+* Use HTML, CSS, and JavaScript ONLY (no frameworks)
+* Use CSS variables for theme colors
+* Include favicon + meta SEO tags
+* Code must be clean, commented, and easy to modify
+* All images/graphics should be placeholders
+* Modal for portfolio should be pure JavaScript
+
+---
+
+## ✅ **Contact Form Requirement (FREE)**
+
+Use Formspree free endpoint:
+
+```
+<form action="https://formspree.io/f/yourID" method="POST">
+```
+
+Add JS validation and custom success/failure notification UI.
+
+---
+
+## ✅ **Output Expected**
+
+Deliver:
+
+✅ Complete `index.html` (all sections in one page)
+✅ Complete `style.css`
+✅ Complete `main.js`
+✅ Modal system for portfolio
+✅ Scroll animations
+✅ Responsive design
+✅ Formspree-ready contact form
+✅ Placeholder images + icons
+✅ Clear comments for customization
+
+---
+
+✅ **This single-page approach must avoid all paid Replit features and run 100% on free hosting.**
+
+---
+
+If you want, I can also generate:
+
+✅ Full index.html
+✅ Full CSS
+✅ Full JS
+✅ Ready to paste into Replit
+
+Just say **“generate the code”**.
